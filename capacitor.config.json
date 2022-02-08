@@ -1,0 +1,6 @@
+{
+  "appId": "jtw.kaset.app",
+  "appName": "kaset-price-daily",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
